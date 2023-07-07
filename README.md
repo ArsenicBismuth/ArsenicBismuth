@@ -1,5 +1,3 @@
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=arsenicbismuth&theme=dracula&count_private=true)
-
 <!--
 **ArsenicBismuth/ArsenicBismuth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
